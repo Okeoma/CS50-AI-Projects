@@ -93,4 +93,5 @@ that reducing the numbers of layers to only one or two and also reducing the siz
  of categories of units by 40, 20 and 10 respectively. The result of this gave accuracy close to 100% and
   loss value almost zero (0).
  
+ My Project's YouTube Video link: https://youtu.be/lL-VwE3J4pw
  
