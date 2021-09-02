@@ -13,8 +13,8 @@ This course explores the concepts and algorithms at the foundation of modern art
  machine learning as well as knowledge of artificial intelligence principles that enable them to design intelligent
  systems of their own.
  
-Certificate:
-https://certificates.cs50.io/831c6241-fb58-4950-9076-2cbed5cd08d3.png?size=letter
+EDX Certificate:
+https://courses.edx.org/certificates/16ae195d4dc642faa7ada145bea31bc3
 
 # Notes
 I've taken some notes on key concepts and algorithms throughout the lectures for future reference. 
